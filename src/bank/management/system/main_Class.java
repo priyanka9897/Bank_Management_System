@@ -24,7 +24,7 @@ public class main_Class extends JFrame implements ActionListener {
         label.setFont(new Font("System",Font.BOLD,28));
         l3.add(label);
 
-        b1 = new JButton("DEPOSIT");
+        b1 = new JButton("DEPOSIT");            
         b1.setForeground(Color.BLACK);
         b1.setBackground(new Color(65,125,128));
         b1.setBounds(410,274,150,35);

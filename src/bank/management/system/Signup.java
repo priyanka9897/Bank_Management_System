@@ -175,7 +175,7 @@ public class Signup extends JFrame implements ActionListener {
         next = new JButton("Next");
         next.setFont(new Font("Raleway",Font.BOLD, 14));
         next.setBackground(Color.BLACK);
-        next.setForeground(Color.WHITE);
+        next.setForeground(Color.black);
         next.setBounds(620,710,80,30);
         next.addActionListener(this);
         add(next);
